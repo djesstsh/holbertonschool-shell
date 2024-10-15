@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 711 folder*
+chmod -R 755 folder*
